@@ -1,0 +1,45 @@
+.converter-container {
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .input-group {
+    margin-bottom: 20px; 
+  }
+  
+  .input-group:last-child {
+    margin-bottom: 0; 
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 1.1em;
+    color: #555;
+    text-align: left;
+    font-weight: 500;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 12px 10px;
+    border: 1px solid #dcdcdc;
+    border-radius: 6px;
+    font-size: 1.1em;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    box-sizing: border-box;
+  }
+  
+  input[type="number"]:focus {
+    border-color: #000000;
+    box-shadow: 0 0 8px rgba(52, 152, 219, 0.2);
+    outline: none;
+  }
+  
+  input[type="number"]::placeholder {
+    color: #999;
+  }
+  
+  
