@@ -19,6 +19,7 @@ Sua importancia se da quando é preciso ajustar aparelhos tanto aquecedores ou a
 
 <li>20°C (clima ameno) corresponde a 68°F.</li>
 <p>Exemplo do código funcionando:</p>
+<br></br>
 <img src='./cs.png'>foto do código em funcionamento</img>
 </p>
 <h2>Linguagens Usadas:</h2>
