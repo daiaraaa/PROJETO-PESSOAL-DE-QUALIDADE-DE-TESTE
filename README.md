@@ -2,8 +2,9 @@
 <H2>O QUE É?</H2>
   O conversor de fahrenheit serve tanto na área de trabalho quanto para interesse público e também sendo cobrado no hambito escolar, feito em 1724 o fahrenheit(°F) é usado no sistema de medida usado no esterior para medir a temperatura. Mais quem o ultilizaria? tanto professores e alunos e turistas que necessitam asemelhar-se com sistema da temperatura do local, e nas escolas para os alunos eria como fonte e pesquisa e entendimento dessa medida que também é cobrada no curriculo escolar.
 <img src='./fotinha.png'>imagem ilustrativa</img>
+<p>Como na imagem acima o projeto funciona da seguinte forma: O usuário coloca a númeração dentro da caixa de texto, pode ser usada tanto na parte de CELSIUS quanto em FAHRENHEIT, e após digitar já aparece o resultado a conversão.</p>
 <H2>QUAL  A IMPORTÂNCIA E QUANDO USAR?</H2>
-Sua importancia se da quando é precis ajustar aparelhos tanto aquecedores ou arcondicionados em ambientes estrangeiros. Também vale ressaltar que o entendimento desse sistema serve para conhecimento comum dos que foram almejados com o projeto.
+Sua importancia se da quando é preciso ajustar aparelhos tanto aquecedores ou arcondicionados em ambientes estrangeiros, resolvendo o problema de muitos que não sabem como converter e também do fácil acesso ao site disponível para quem precisa. Também vale ressaltar que o entendimento desse sistema serve para conhecimento comum dos que foram almejados com o projeto.
 
 <H2>COMO FUNCIONA ESSE SISTEMA ?</H2>
 <p>A conversão de Fahrenheit para Celsius é simples! Basta subtrair 32 da temperatura em Fahrenheit e depois dividir o resultado por 1.8. a seguinte fórmula demonstra como se é calculado:
@@ -16,7 +17,7 @@ Sua importancia se da quando é precis ajustar aparelhos tanto aquecedores ou ar
 <li>40°C (um dia bem quente no Brasil) equivale a 104°F.</li>
 
 <li>20°C (clima ameno) corresponde a 68°F.</li>
-<p>Exemplo do cóigo funcionando:</p>
+<p>Exemplo do código funcionando:</p>
 <img src='./cs.png'>foto do código em funcionamento</img>
 </p>
 <h2>Linguagens Usadas:</h2>
