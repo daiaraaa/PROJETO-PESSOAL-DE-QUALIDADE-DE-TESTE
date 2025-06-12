@@ -3,7 +3,6 @@
   O conversor de fahrenheit serve tanto na área de trabalho quanto para interesse público e também sendo cobrado no hambito escolar, feito em 1724 o fahrenheit(°F) é usado no sistema de medida usado no esterior para medir a temperatura. Mais quem o ultilizaria? tanto professores e alunos e turistas que necessitam asemelhar-se com sistema da temperatura do local, e nas escolas para os alunos seria como fonte e pesquisa e entendimento dessa medida que também é cobrada no curriculo escolar.
 <br></br>
 <img src='./fotinha.png'><b>Imagem ilustrativa</b></img>
-<button a href='https://projeto-pessoal-de-qualidade-de-tes.vercel.app/'></button>
 <br></br>
 <p>Como na imagem acima o projeto funciona da seguinte forma: O usuário coloca a númeração dentro da caixa de texto, pode ser usada tanto na parte de CELSIUS quanto em FAHRENHEIT, e após digitar já aparece o resultado da conversão.</p>
 <h2>QUAL  A IMPORTÂNCIA E QUANDO USAR?</h2>
@@ -23,7 +22,6 @@ Sua importancia se da quando é preciso ajustar aparelhos tanto aquecedores ou a
 <p>Exemplo do código funcionando:</p>
 <br></br>
 <img src='./cs.png'><b>foto do código em funcionamento</b></img>
-<button a href='https://projeto-pessoal-de-qualidade-de-tes.vercel.app/'></button>
 </p>
 <h2>Linguagens Usadas:</h2>
 <p>React, javascript, css entre outros</p>
